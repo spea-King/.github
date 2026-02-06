@@ -1,6 +1,7 @@
-## AI-Nterview - AI 기반 실전 면접 감각 훈련 서비스
+## <img width="500" alt="speaKing_logo" src="https://github.com/user-attachments/assets/f6cc9c3d-3a28-43d0-bf6b-514c3ed04b53" /> <br/> 기업 / 지원자 맞춤형 ai 질문 기반 실전 면접 연습 서비스전 면접 감각 훈련 서비스
 
-<img width="109" height="113" alt="icon" src="https://github.com/user-attachments/assets/72354d02-8700-41b8-8aa8-29e43438da8f" />
+![Uploading speaKing_icon.png…]()
+
 
 ## ✍️ 프로젝트 개요
 
