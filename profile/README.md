@@ -1,7 +1,6 @@
 ## <img width="500" alt="speaKing_logo" src="https://github.com/user-attachments/assets/f6cc9c3d-3a28-43d0-bf6b-514c3ed04b53" /> <br/> 기업 / 지원자 맞춤형 ai 질문 기반 실전 면접 연습 서비스전 면접 감각 훈련 서비스
 
-![Uploading speaKing_icon.png…]()
-
+<img width="200" height="200" alt="speaKing_icon" src="https://github.com/user-attachments/assets/2707fc40-fb86-4b93-b563-565326875b49" />
 
 ## ✍️ 프로젝트 개요
 
